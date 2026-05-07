@@ -122,7 +122,7 @@ Whether you are building **AI trading agents**, **on-chain copilots**, **DeFi re
 - [📚 Resources](#-resources)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [🔍 Keywords & Topics](#-keywords--topics)
+- [🔍 Related Searches](#-related-searches)
 - [📈 Popular Use Cases](#-popular-use-cases)
 
 > **Legend** — 🟢 Live · 🟡 Beta / Preview · ⭐ Featured · ☁️ Remote (hosted) · 💻 Self-host
@@ -559,9 +559,11 @@ Made with ❤️ for the AI × Crypto community.
 
 ---
 
-## 🔍 Keywords & Topics
+## 🔍 Related Searches
 
-This repository covers: **crypto MCP**, **blockchain MCP**, **MCP servers crypto**, **Model Context Protocol blockchain**, **AI crypto agents**, **AI trading agents crypto**, **Bitquery MCP**, **Bitquery blockchain data MCP**, **DEX trading MCP**, **on-chain MCP server**, **Solana MCP servers**, **Ethereum MCP server**, **EVM MCP**, **Bitcoin MCP**, **Lightning Network MCP**, **DeFi MCP**, **NFT MCP**, **wallet MCP**, **portfolio MCP**, **Uniswap MCP**, **Jupiter MCP**, **PancakeSwap MCP**, **Aave MCP**, **CoinGecko MCP**, **CoinMarketCap MCP**, **DexScreener MCP**, **DexPaprika MCP**, **Chainlink MCP**, **Pyth Network MCP**, **Dune Analytics MCP**, **The Graph MCP**, **Alchemy MCP**, **QuickNode MCP**, **Chainstack MCP**, **Moralis MCP**, **Tatum MCP**, **Nodit MCP**, **thirdweb MCP**, **Bankless MCP**, **GOAT SDK MCP**, **Solana Agent Kit MCP**, **whale tracker MCP**, **rug check MCP**, **honeypot detector MCP**, **bridge MCP**, **deBridge MCP**, **Stargate MCP**, **Wormhole MCP**, **OpenSea MCP**, **Magic Eden MCP**, **memecoin MCP**, **Pump.fun MCP**, **Hyperliquid MCP**, **Binance MCP**, **Bybit MCP**, **Coinbase Base MCP**, **CryptoPanic MCP**, **crypto sentiment MCP**, **crypto news MCP**, **DAO MCP**, **DefiLlama MCP**, **Heurist Mesh MCP**, **Hive Intelligence MCP**, **Octav portfolio MCP**, **token revoke MCP**, **ENS MCP**, **Etherscan MCP**, **Blockscout MCP**, **technical indicators MCP**, **funding rates MCP**, **liquidations MCP**, **Pyth oracle MCP**, **OHLC candles MCP**, **wallet PnL MCP**, **AI agent for blockchain**, **how to add MCP server to Cursor**, **how to add MCP to Claude Desktop**, **best crypto MCP servers**, **awesome MCP**, **awesome crypto MCP**, **awesome blockchain MCP**, and more.
+If you arrived here looking for any of the following, you're in the right place:
+
+`crypto MCP servers` · `blockchain MCP` · `Bitquery MCP` · `Solana MCP` · `Ethereum MCP` · `EVM MCP` · `DeFi MCP` · `DEX trading MCP` · `on-chain data MCP` · `AI crypto agents` · `MCP server for Cursor` · `MCP server for Claude Desktop` · `best crypto MCP servers`
 
 ---
 
