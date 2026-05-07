@@ -117,6 +117,7 @@ Whether you are building **AI trading agents**, **on-chain copilots**, **DeFi re
 - [📰 News, Sentiment & Information MCPs](#-news-sentiment--information-mcps)
 - [💸 Crypto Payments MCPs](#-crypto-payments-mcps)
 - [🚀 Memecoins & Launchpad MCPs](#-memecoins--launchpad-mcps)
+- [🔮 Prediction Market MCPs](#-prediction-market-mcps)
 - [🗳️ DAO & Governance MCPs](#-dao--governance-mcps)
 - [🛠️ Developer Tools & Utility MCPs](#-developer-tools--utility-mcps)
 - [📚 Resources](#-resources)
@@ -456,6 +457,20 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 
 ---
 
+## 🔮 Prediction Market MCPs
+
+Prediction markets are increasingly trading-venue-like — settled on Polygon (Polymarket), Base (Limitless), and other crypto rails. The MCPs below feed prediction-market data to AI agents.
+
+| MCP | Platform | Capabilities | Status | Link |
+| --- | --- | --- | --- | --- |
+| **⭐ Bitquery MCP** | Polymarket on Polygon | Polymarket smart-contract events, trades, prices, oracle resolution via the same MCP | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
+| **Polymarket Predictions MCP** | Polymarket | Real-time market odds for AI agents | 🟢 Live | [kukapay/polymarket-predictions-mcp](https://github.com/kukapay/polymarket-predictions-mcp) |
+| **Uma Rocks** | UMA / Polygon | Prediction-market & UMA oracle data | 🟢 Live | [umarocks.com](https://umarocks.com) |
+
+> **Sister list:** for the broader prediction-market ecosystem — platforms (Polymarket, Kalshi, Opinion, Limitless), trading terminals, alert bots, analytics tools, AI agents, and sport-prediction platforms — see **[Awesome Prediction Markets](https://github.com/buddies2705/awesome-prediction-market)**.
+
+---
+
 ## 🗳️ DAO & Governance MCPs
 
 | MCP | Coverage | Capabilities | Status | Link |
@@ -496,8 +511,9 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 - [Bitquery Price Index Algorithm](https://docs.bitquery.io/docs/trading/crypto-price-api/price-index-algorithm/) — outlier-filter & ranking logic
 - [Bitquery Account](https://account.bitquery.io/) — sign up / manage plan / generate API tokens
 
-### Other Awesome Lists
+### Related Awesome Lists
 
+- [**Awesome Prediction Markets**](https://github.com/buddies2705/awesome-prediction-market) — Sister list covering prediction-market platforms (Polymarket, Kalshi, Opinion, Limitless), trading terminals, alert bots, analytics tools, and sport-prediction platforms. Many entries pair naturally with the Bitquery and DEX MCPs in this list.
 - [badkk/awesome-crypto-mcp-servers](https://github.com/badkk/awesome-crypto-mcp-servers)
 - [royyannick/awesome-blockchain-mcps](https://github.com/royyannick/awesome-blockchain-mcps)
 - [hive-intel/awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers)
