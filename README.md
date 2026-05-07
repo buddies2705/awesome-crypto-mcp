@@ -185,6 +185,7 @@ For Ethereum mainnet and the EVM ecosystem (Polygon, BSC, Arbitrum, Optimism, Ba
 
 | MCP | Type | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
+| **⭐ Bitquery MCP** | Ethereum + EVM (BSC, Base, Arbitrum, Optimism, Polygon) | Per-trade DEX rows, OHLC, market cap, wallet PnL, outlier-filtered | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
 | **EVM MCP Server** | Multi-EVM | 30+ EVM networks: native tokens, ERC-20, NFTs, contracts, ENS | 🟢 Live | [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) |
 | **Etherscan MCP** | Block explorer | Token balances, ENS, contracts via Etherscan API | 🟢 Live | [crazyrabbitLTC/mcp-etherscan-server](https://github.com/crazyrabbitLTC/mcp-etherscan-server) |
 | **Ethereum MCP** | Single-chain | ETH balances, prices, tx details | 🟢 Live | [qingfengzxr/eth-mcp-server](https://github.com/qingfengzxr/eth-mcp-server) |
@@ -203,6 +204,7 @@ Comprehensive coverage of the Solana ecosystem — wallets, swaps, memecoins, va
 
 | MCP | Type | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
+| **⭐ Bitquery MCP** | Solana data | Pump.fun / Raydium / Jupiter trades, OHLC, market cap, wallet PnL, outlier-filtered | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
 | **Solana Agent Kit MCP** | All-in-one | 40+ Solana actions, full SendAI Agent Kit | 🟢 Live | [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) |
 | **Aldrin Labs Solana MCP** | RPC | 21 Solana RPC methods — accounts, tokens, staking | 🟢 Live | [Aldrin-labs/solana-mcp-server](https://github.com/Aldrin-labs/solana-mcp-server) |
 | **Solana Dev MCP** | Dev tools | Solana Foundation MCP for development | 🟢 Live | [solana-foundation/solana-dev-mcp](https://github.com/solana-foundation/solana-dev-mcp) |
@@ -228,6 +230,8 @@ Comprehensive coverage of the Solana ecosystem — wallets, swaps, memecoins, va
 
 ## 🟠 Bitcoin & Lightning MCPs
 
+> **Note:** Bitquery's MCP currently covers Solana, Ethereum, BSC, Base, Arbitrum, Optimism, Polygon, and Tron. For Bitcoin-native trade and UTXO data, use the dedicated MCPs below.
+
 | MCP | Network | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
 | **Bitcoin MCP** | Bitcoin + Lightning | Key generation, validation, queries | 🟢 Live | [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) |
@@ -241,6 +245,7 @@ Comprehensive coverage of the Solana ecosystem — wallets, swaps, memecoins, va
 
 | MCP | Chain | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
+| **⭐ Bitquery MCP** | Base, BSC, Tron (+ Arbitrum, Optimism, Polygon) | Per-trade DEX rows, OHLC, market cap, wallet PnL across all 8 chains | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
 | **Base MCP** | Base (Coinbase) | Wallet, contracts, ERC-20/721/1155, Morpho vaults, onramp, Farcaster | 🟢 Live | [base/base-mcp](https://github.com/base/base-mcp) |
 | **Base USDC Transfer** | Base | Free USDC transfers via Coinbase MPC wallets | 🟢 Live | [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) |
 | **PancakeSwap PoolSpy** | BNB / multi | Tracks new PancakeSwap liquidity pools | 🟢 Live | [kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) |
