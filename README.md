@@ -178,6 +178,8 @@ The "data warehouse" layer for AI agents — query indexed blockchain data at sc
 | **Spice (Nimbus)** | Flipside | Solana metadata catalog & blockchain queries | 💻 | 🟢 Live | [getnimbus/spice](https://github.com/getnimbus/spice) |
 | **Dappier** | Dappier | Real-time, rights-cleared crypto + finance data | 💻 | 🟢 Live | [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) |
 
+> **Tip — no-code companion to Bitquery MCP:** **[DEXrabbit](https://dexrabbit.bitquery.io/)** is a free public web dashboard powered by the same Bitquery API the MCP queries. **Think DexScreener, but with built-in AI overviews** plus native Polymarket support. Useful for sanity-checking what your AI agent returned, exploring datasets visually before writing prompts, or pointing non-technical teammates to live token / pair / cryptocurrency / Polymarket views without a single line of code.
+
 ---
 
 ## ⛓️ Ethereum & EVM MCPs
@@ -510,6 +512,7 @@ Prediction markets are increasingly trading-venue-like — settled on Polygon (P
 - [Bitquery Crypto Trades API](https://docs.bitquery.io/docs/trading/crypto-trades-api/trades-api/) — swap-level streams (real-time + historical)
 - [Bitquery Price Index Algorithm](https://docs.bitquery.io/docs/trading/crypto-price-api/price-index-algorithm/) — outlier-filter & ranking logic
 - [Bitquery Account](https://account.bitquery.io/) — sign up / manage plan / generate API tokens
+- [**DEXrabbit**](https://dexrabbit.bitquery.io/) — Free public DexScreener-alternative dashboard powered by Bitquery API, with native Polymarket support and AI market overviews. Great way to preview the data your AI agent will see.
 
 ### Related Awesome Lists
 
