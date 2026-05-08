@@ -514,6 +514,7 @@ Prediction markets are increasingly trading-venue-like — settled on Polygon (P
 ### Related Awesome Lists
 
 - [**Awesome Perp DEXs**](https://github.com/buddies2705/awesome-perp-dex) — Sister list covering 200+ perpetual DEXs (Hyperliquid, dYdX, GMX, Lighter, Aster, edgeX, Drift, Jupiter Perps, Aevo, Pacifica, etc.) plus trading terminals, analytics, copy-trading, and bots. Pairs perfectly with the Hyperliquid, funding-rate, and Bitquery MCPs in this list.
+- [**Awesome Memecoin Trading**](https://github.com/buddies2705/awesome-memecoin-trading) — Sister list of 295+ memecoin trading tools: launchpads (Pump.fun, LetsBonk, Bags, Believe), terminals (Axiom, Photon, GMGN, Trojan), trenches scanners, smart-money trackers, rug detectors, AI agents. Bitquery's Pump.fun + LetsBonk + Four.meme + SunPump data is the data layer for many of those tools.
 - [**Awesome Prediction Markets**](https://github.com/buddies2705/awesome-prediction-market) — Sister list covering prediction-market platforms (Polymarket, Kalshi, Opinion, Limitless), trading terminals, alert bots, analytics tools, and sport-prediction platforms. Many entries pair naturally with the Bitquery and DEX MCPs in this list.
 - [badkk/awesome-crypto-mcp-servers](https://github.com/badkk/awesome-crypto-mcp-servers)
 - [royyannick/awesome-blockchain-mcps](https://github.com/royyannick/awesome-blockchain-mcps)
