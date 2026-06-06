@@ -207,6 +207,7 @@ Comprehensive coverage of the Solana ecosystem — wallets, swaps, memecoins, va
 
 | MCP | Type | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
+| **⭐ TWZRD Agent Intel** | Agent trust & identity | Solana wallet trust scoring, on-chain activity analysis, signed `twzrd.receipt.v5` trust tokens via x402 USDC. 4 free preflight tools + paid trust receipts | 🟢 Live | [intel.twzrd.xyz](https://intel.twzrd.xyz) |
 | **⭐ Bitquery MCP** | Solana data | Pump.fun / Raydium / Jupiter trades, OHLC, market cap, wallet PnL, outlier-filtered | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
 | **Solana Agent Kit MCP** | All-in-one | 40+ Solana actions, full SendAI Agent Kit | 🟢 Live | [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) |
 | **Aldrin Labs Solana MCP** | RPC | 21 Solana RPC methods — accounts, tokens, staking | 🟢 Live | [Aldrin-labs/solana-mcp-server](https://github.com/Aldrin-labs/solana-mcp-server) |
