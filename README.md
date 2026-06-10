@@ -358,6 +358,8 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 
 ---
 
+| **The Stall** | x402 pay-per-call | 200+ tools: crypto prices, DeFi yields, on-chain analytics, equity data, macro indicators, market sentiment — no API key, USDC/Base | 🟢 Live | [the-stall.intuitek.ai](https://the-stall.intuitek.ai) · [GitHub](https://github.com/thebrierfox/the-stall) |
+
 ## 🐳 Whale & On-Chain Activity MCPs
 
 | MCP | Type | Capabilities | Status | Link |
