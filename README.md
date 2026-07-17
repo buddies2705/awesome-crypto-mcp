@@ -385,6 +385,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 
 | MCP | Type | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
+| **GenTech Labs MCP** | Multi-chain | Token risk scoring, wallet analysis, agent discovery, market intel, airdrop checks, NFT search — 16 endpoints across 6 chains with x402 pay-per-call | 🟢 Live | [gentechlabs.net](https://gentechlabs.net) · [GitHub](https://github.com/ProtoJay4789/gentech-agent-kit) |
 | **Honeypot Detector MCP** | Token risk | Detect honeypot tokens on Ethereum, BSC, Base | 🟢 Live | [kukapay/honeypot-detector-mcp](https://github.com/kukapay/honeypot-detector-mcp) |
 | **Rug Check MCP** | Solana | Detects rug-pull risk in Solana meme tokens | 🟢 Live | [kukapay/rug-check-mcp](https://github.com/kukapay/rug-check-mcp) |
 | **Token Revoke MCP** | EVM | Check & revoke ERC-20 token allowances | 🟢 Live | [kukapay/token-revoke-mcp](https://github.com/kukapay/token-revoke-mcp) |
