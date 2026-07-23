@@ -173,6 +173,7 @@ The "data warehouse" layer for AI agents — query indexed blockchain data at sc
 | --- | --- | --- | --- | --- | --- |
 | **⭐ Bitquery MCP** | Bitquery | Trades, OHLC, market cap across 8 chains; outlier-filtered | ☁️ Remote | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
 | **Dune Analytics MCP** | Dune | SQL on indexed chains, dashboards, visualisations | ☁️ Remote | 🟢 Live | [docs.dune.com/api-reference/agents/mcp](https://docs.dune.com/api-reference/agents/mcp) |
+| **Formo MCP** | Formo | Project-scoped product and onchain analytics, SQL, funnels, retention, revenue, users, and wallet profiles | ☁️ Remote | 🟢 Live | [docs.formo.so/mcp/overview](https://docs.formo.so/mcp/overview) |
 | **The Graph MCP** | The Graph | Search subgraphs, GraphQL queries on indexed data | 💻 | 🟢 Live | [Data-Nexus-Web3/thegraph-mcp](https://github.com/Data-Nexus-Web3/thegraph-mcp) |
 | **The Graph Token API MCP** | The Graph | Token metadata, balances, transfers, holders | 💻 | 🟢 Live | [thegraph.com/docs/ai-suite/token-api-mcp](https://thegraph.com/docs/ar/ai-suite/token-api-mcp/introduction/) |
 | **Spice (Nimbus)** | Flipside | Solana metadata catalog & blockchain queries | 💻 | 🟢 Live | [getnimbus/spice](https://github.com/getnimbus/spice) |
@@ -606,6 +607,5 @@ If you arrived here looking for any of the following, you're in the right place:
 - **Prediction-Market Agents** — Polymarket Predictions MCP and UMA Rocks for forecasting workflows
 - **DAO Governance Bots** — DAO Proposals MCP for monitoring & voting workflows across major DAOs
 - **AI Payments** — x402, Lightning Network, and Base USDC Transfer MCPs for autonomous-agent micropayments
-
 
 
