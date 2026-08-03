@@ -355,6 +355,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Crypto Stocks MCP** | Equities | Real-time data for crypto-related stocks | 🟢 Live | [kukapay/crypto-stocks-mcp](https://github.com/kukapay/crypto-stocks-mcp) |
 | **Crypto Funds MCP** | Funds | Crypto investment funds data | 🟢 Live | [kukapay/crypto-funds-mcp](https://github.com/kukapay/crypto-funds-mcp) |
 | **Crypto Projects MCP** | Mobula.io | Project metadata & metrics | 🟢 Live | [kukapay/crypto-projects-mcp](https://github.com/kukapay/crypto-projects-mcp) |
+| **AgentServices** | Multi-source | 54 crypto/market data services, 97 REST endpoints, 37 MCP tools, x402 pay-per-call USDC | 🟢 Live | [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) |
 
 ---
 
@@ -442,6 +443,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Zebedee ZBD MCP** | Lightning | Micropayments & rewards | 🟢 Live | [zebedeeio/zbd-mcp-server](https://github.com/zebedeeio/zbd-mcp-server) |
 | **Base USDC Transfer** | Base | Free USDC transfers via Coinbase MPC | 🟢 Live | [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) |
 | **Universal Crypto MCP (x402)** | EVM + Solana | x402 Payment Protocol for AI agent payments | 🟢 Live | [nirholas/universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) |
+| **AgentServices** | Base (USDC) | 54 crypto/market data services, 97 REST endpoints, 37 MCP tools, x402 pay-per-call | 🟢 Live | [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) |
 
 ---
 
