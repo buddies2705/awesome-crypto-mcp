@@ -442,6 +442,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Zebedee ZBD MCP** | Lightning | Micropayments & rewards | 🟢 Live | [zebedeeio/zbd-mcp-server](https://github.com/zebedeeio/zbd-mcp-server) |
 | **Base USDC Transfer** | Base | Free USDC transfers via Coinbase MPC | 🟢 Live | [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) |
 | **Universal Crypto MCP (x402)** | EVM + Solana | x402 Payment Protocol for AI agent payments | 🟢 Live | [nirholas/universal-crypto-mcp](https://github.com/nirholas/universal-crypto-mcp) |
+| **stipend** | Base | Non-custodial USDC wallet; spending caps + allowlist enforced in code before signing; x402 auto-pay | 🟢 Live | [stipend-sh/stipend](https://github.com/stipend-sh/stipend) |
 
 ---
 
