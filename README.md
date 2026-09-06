@@ -348,6 +348,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **CoinCap MCP** | CoinCap | Real-time market data — no API key | 🟢 Live | [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) |
 | **CoinStats MCP** | CoinStats | Market data, portfolio tracking, news | 🟢 Live | [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) |
 | **Crypto Indicators MCP** | Computed | 50+ technical indicators & strategies | 🟢 Live | [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) |
+| **SnowSignals TrendVane** | Computed | Market-phase classification per timeframe + BTC-derived resolution stats (successor odds, reward-vs-drawdown) | 🟢 Live | [snowkidind/snowsignals-mcp](https://github.com/snowkidind/snowsignals-mcp) |
 | **Crypto Trending MCP** | CoinGecko | Trending tokens feed | 🟢 Live | [kukapay/crypto-trending-mcp](https://github.com/kukapay/crypto-trending-mcp) |
 | **Crypto Fear & Greed MCP** | Index | Real-time + historical Crypto Fear & Greed Index | 🟢 Live | [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) |
 | **Crypto Sentiment MCP** | Santiment | Sentiment analysis for tokens & projects | 🟢 Live | [kukapay/crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) |
