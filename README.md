@@ -548,6 +548,7 @@ Prediction markets are increasingly trading-venue-like — settled on Polygon (P
 - [Anthropic Discord](https://discord.gg/anthropic)
 - [Bitquery Telegram](https://t.me/Bloxy_info)
 - [Bitquery Support](https://support.bitquery.io/)
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 7 EVM chains; paid tools settle per call in USDC via x402.
 
 ---
 
