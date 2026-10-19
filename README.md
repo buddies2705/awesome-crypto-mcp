@@ -355,6 +355,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Crypto Stocks MCP** | Equities | Real-time data for crypto-related stocks | 🟢 Live | [kukapay/crypto-stocks-mcp](https://github.com/kukapay/crypto-stocks-mcp) |
 | **Crypto Funds MCP** | Funds | Crypto investment funds data | 🟢 Live | [kukapay/crypto-funds-mcp](https://github.com/kukapay/crypto-funds-mcp) |
 | **Crypto Projects MCP** | Mobula.io | Project metadata & metrics | 🟢 Live | [kukapay/crypto-projects-mcp](https://github.com/kukapay/crypto-projects-mcp) |
+| **swolecharts market data** | Swolecharts | Funding, open interest, liquidations and volume spikes; read-only hosted endpoint | 🟢 Live | [Setup and endpoint](https://swolecharts.com/developers/mcp) |
 
 ---
 
