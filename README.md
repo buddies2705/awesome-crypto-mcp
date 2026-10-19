@@ -438,6 +438,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 
 | MCP | Network | Capabilities | Status | Link |
 | --- | --- | --- | --- | --- |
+| **Agent Payment Node** | EVM, Solana, TRON | Local macOS CLI/MCP payments and x402; foreground owner approval | 🟡 Beta / Preview | [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) |
 | **Lightning Network MCP** | Bitcoin Lightning | Invoice payments & balances | 🟢 Live | [AbdelStark/lightning-mcp](https://github.com/AbdelStark/lightning-mcp) |
 | **Zebedee ZBD MCP** | Lightning | Micropayments & rewards | 🟢 Live | [zebedeeio/zbd-mcp-server](https://github.com/zebedeeio/zbd-mcp-server) |
 | **Base USDC Transfer** | Base | Free USDC transfers via Coinbase MPC | 🟢 Live | [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) |
