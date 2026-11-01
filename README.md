@@ -392,6 +392,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Philidor DeFi Vault Risk** | DeFi vaults | 700+ vaults — Asset / Platform / Governance scoring | 🟢 Live | [Philidor-Labs/philidor-mcp](https://github.com/Philidor-Labs/philidor-mcp) |
 | **Heurist Mesh** | Multi-chain | Smart-contract security + on-chain analytics agents | 🟢 Live | [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) |
 | **Web3 Assistant** | EVM | ABI analysis & secure contract method invocation | 🟢 Live | [EmanuelJr/web3-mcp-server](https://github.com/EmanuelJr/web3-mcp-server) |
+| **Trnch MCP** | Robinhood Chain | `trnch_check` rug and honeypot verdicts (no key), new-token feed, best-route swap quotes | 🟢 Live | [isonips/trnch-mcp](https://github.com/isonips/trnch-mcp) |
 
 ---
 
