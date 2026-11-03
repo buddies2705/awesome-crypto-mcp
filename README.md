@@ -301,6 +301,7 @@ For AI agents that need access to centralised exchange APIs — trading, balance
 | **Bybit MCP (official)** | Bybit | 247 tools — full Bybit V5 API, spot, derivatives, block trading | 🟢 Live | [bybit-exchange/bybit-mcp](https://github.com/bybit-exchange/bybit-mcp) |
 | **Bybit Trading MCP** | Bybit | 22 market data + 11 account tools, WebSocket | 🟢 Live | [bybit-exchange/trading-mcp](https://github.com/bybit-exchange/trading-mcp) |
 | **Coinbase Base MCP** | Coinbase / Base | Wallet, contracts, NFTs, Morpho, onramp | 🟢 Live | [base/base-mcp](https://github.com/base/base-mcp) |
+| **Trend0x MCP** | Bybit, OKX, Binance, Bitpanda, WhiteBIT, Alpaca | 115 tools, ☁️ remote: market data, portfolio/PnL, backtests, paper runs, confirm-gated orders | 🟢 Live | [trend0xai/trend0x-mcp](https://github.com/trend0xai/trend0x-mcp) · [trend0x.com](https://trend0x.com) |
 | **Binance Announcements** | Binance | Latest announcements feed | 🟢 Live | [kukapay/binance-announcements-mcp](https://github.com/kukapay/binance-announcements-mcp) |
 | **Bybit Announcements** | Bybit | Latest announcements feed | 🟢 Live | [kukapay/bybit-announcements-mcp](https://github.com/kukapay/bybit-announcements-mcp) |
 | **OKX Announcements** | OKX | Latest announcements feed | 🟢 Live | [kukapay/okx-announcements-mcp](https://github.com/kukapay/okx-announcements-mcp) |
