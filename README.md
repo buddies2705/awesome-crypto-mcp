@@ -428,6 +428,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Crypto News MCP** | NewsData | Aggregated crypto news | 🟢 Live | [kukapay/crypto-news-mcp](https://github.com/kukapay/crypto-news-mcp) |
 | **Crypto RSS MCP** | RSS feeds | Aggregated RSS news for agents | 🟢 Live | [kukapay/crypto-rss-mcp](https://github.com/kukapay/crypto-rss-mcp) |
 | **Kukapay News MCP** | Kukapay | Hosted aggregated crypto news MCP | 🟢 Live | [kukapay/kukapay-news-mcp](https://github.com/kukapay/kukapay-news-mcp) |
+| **链小知区块链 MCP** | Lianxiaozhi | Hosted read-only Chinese blockchain news, seven-day search, learning materials and tool guides; no account or key | 🟡 Beta / Preview | [Setup and limitations](https://lianxiaozhi.com/agent) |
 | **Crypto Whitepapers MCP** | Whitepapers | Knowledge base of crypto whitepapers | 🟢 Live | [kukapay/crypto-whitepapers-mcp](https://github.com/kukapay/crypto-whitepapers-mcp) |
 | **Twitter Username Changes MCP** | X / Twitter | Track Twitter username history (alpha signals) | 🟢 Live | [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) |
 | **Dappier MCP** | Dappier | Real-time crypto + finance + news content | 🟢 Live | [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) |
