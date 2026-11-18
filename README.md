@@ -367,6 +367,7 @@ For LLMs that need price, volume, market-cap, sentiment, and technical-analysis 
 | **Wallet Inspector MCP** | Multi-chain | Inspect wallet balances & on-chain activity | 🟢 Live | [kukapay/wallet-inspector-mcp](https://github.com/kukapay/wallet-inspector-mcp) |
 | **Tornado Cash MCP** | Ethereum | Track Tornado Cash deposits / withdrawals | 🟢 Live | [kukapay/tornado-cash-mcp](https://github.com/kukapay/tornado-cash-mcp) |
 | **PumpFun Wallets MCP** | Solana | Analyse Pump.fun & PumpSwap wallets | 🟢 Live | [kukapay/pumpfun-wallets-mcp](https://github.com/kukapay/pumpfun-wallets-mcp) |
+| **StalkChain Data** | Multi-chain | Public trader wallets, trades, PnL, and token holder activity over hosted MCP with OAuth | 🟢 Live | [StalkChain/fomo-mcp-api](https://github.com/StalkChain/fomo-mcp-api) |
 
 ---
 
