@@ -321,6 +321,7 @@ DeFi-native MCPs for lending markets, vaults, yields, and liquidity-pool risk.
 | **Euler Vaults MCP** | Euler Finance | Instant access to Euler lending vaults | 🟢 Live | [kukapay/euler-vaults-mcp](https://github.com/kukapay/euler-vaults-mcp) |
 | **Lista Vaults MCP** | Lista DAO | Track and act across Lista DAO lending vaults | 🟢 Live | [kukapay/lista-vaults-mcp](https://github.com/kukapay/lista-vaults-mcp) |
 | **Arcadia Finance** | Arcadia | Concentrated liquidity, leverage, rebalancing on Base / Optimism | 🟢 Live | [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server) |
+| **Web3Juice MCP** | Multi-protocol | Dated APY, base vs reward yield, 90-day history, pool comparisons (read-only) | 🟢 Live | [jimbob1414/web3juice-mcp](https://github.com/jimbob1414/web3juice-mcp) |
 | **Philidor DeFi Vault Risk** | Morpho, Aave, Spark, Yearn, Beefy, Compound, Uniswap | 700+ vault risk scoring (Asset / Platform / Governance) | 🟢 Live | [mcp.philidor.io](https://mcp.philidor.io) · [GitHub](https://github.com/Philidor-Labs/philidor-mcp) |
 | **Uma Rocks** *(prediction market)* | UMA / Polygon | DeFi prediction-market data | 🟢 Live | [umarocks.com](https://umarocks.com) |
 
