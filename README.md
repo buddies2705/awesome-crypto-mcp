@@ -283,6 +283,7 @@ For AI agents that swap, trade, snipe, copy-trade, and analyse decentralised exc
 | **Hyperliquid MCP (edk)** | Hyperliquid | Bracket orders, account mgmt, testnet | 🟢 Live | [edkdev/hyperliquid-mcp](https://github.com/edkdev/hyperliquid-mcp) |
 | **Hyperliquid MCP (PlayAI)** | Hyperliquid | USD sizing, leverage, dual-account security | 🟢 Live | [PlayAINetwork/hyperliquid](https://github.com/PlayAINetwork/hyperliquid) |
 | **Alpha Arena MCP** | Hyperliquid | Account data + perp tools for AI agents | 🟢 Live | [kukapay/alpha-arena-mcp](https://github.com/kukapay/alpha-arena-mcp) |
+| **compi** | Hyperliquid and Aster | Rules layer between your own agent and Hyperliquid and Aster: caps, leverage and daily loss limits, kill switch; orders signed in your browser with the key compi sets up, which can trade but cannot withdraw | 🟡 Beta / Preview | [compi.ai](https://compi.ai) |
 | **Funding Rates MCP** | All major venues | Real-time funding rates across exchanges | 🟢 Live | [kukapay/funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) |
 | **Crypto Orderbook MCP** | Multi-venue | Order book depth & imbalance analysis | 🟢 Live | [kukapay/crypto-orderbook-mcp](https://github.com/kukapay/crypto-orderbook-mcp) |
 | **Crypto Liquidations MCP** | Multi-venue | Streams liquidation events | 🟢 Live | [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) |
